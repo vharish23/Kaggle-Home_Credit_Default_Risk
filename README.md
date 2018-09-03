@@ -17,7 +17,7 @@ Step 4: Ensemble Voting of OOF predictions (4 files) - CV - 0.80021 | public LB 
 Step 5: Rank Averaging of LB topper (blending) obtained from step 3, Submission file from Voting, LightGBM model with no               External Sources features(Credit scores reported by external agencies) and public kernel submission by GP method
         public LB - 0.80594 | private LB - 0.79930
         
-Step 6: After deadline - Removed public kernel submission by GP method would have helped me to secure 31st position.
+Step 6: After deadline - Removing public kernel submission by GP method would have helped me to secure 31st position.
         public LB - 0.8068 | private LB - 0.80054
         
         
